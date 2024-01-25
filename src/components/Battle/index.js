@@ -1,1 +1,1 @@
-export * from './BattleMenu';
+export * from './Battle';
